@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World!</title>
+<title>Jenkin Updated!</title>
 </head>
 <body>
 	<h1>Jenkin Updated!</h1>
