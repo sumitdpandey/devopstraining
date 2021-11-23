@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Today Jenkin Lab !</title>
+<title>Today Jenkin Lab </title>
 </head>
 <body>
 	<h1>Jenkin Updated!</h1>
